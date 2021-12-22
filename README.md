@@ -24,8 +24,8 @@ Bei meinem Beispiel hier habe ich bei der Abfrage schon festgelegt welche Zahl e
 
 ## Inhalt 3
 
-Ich habe für das Video ein neuse Winforms erstellt, damit man diie anderen Zeilen bei meinem Projekt nicht stören, bbeim verstehen.
-Bei meinem Fall musste ich noch ein return1; hinschreiben, damit das Programm nicht motzt.
+Ich habe für das Video ein neuse Winforms erstellt, damit man die anderen Zeilen bei meinem Hütchenspielprojekt nicht stören, beim verstehen.
+Bei meinem Fall musste ich noch ein return1; hinschreiben, damit das Programm nicht motzt. Wenn Sie auf "Youtube Video" clicken kommen sie zum Video.
 [Youtube Video](https://youtu.be/EWg9SQYglAg)
 
 ## Verifikation + Reflektion 
