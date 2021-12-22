@@ -19,7 +19,7 @@ Bei meinem Beispiel hier habe ich bei der Abfrage schon festgelegt welche Zahl e
 ##### Bild 1:
 ![image](https://cdn.discordapp.com/attachments/900403632611155968/923135612754735125/unknown.png)
 ##### Bild 2:
-![image](https://cdn.discordapp.com/attachments/900403632611155968/923135930204839936/unknown.png)
+![image](https://cdn.discordapp.com/attachments/900403632611155968/923143873482616892/unknown.png)
 
 
 ## Inhalt 3
