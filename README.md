@@ -28,10 +28,10 @@ Ich habe für das Video ein neuse Winforms erstellt, damit man die anderen Zeile
 Bei meinem Fall musste ich noch ein return1; hinschreiben, damit das Programm nicht motzt. Wenn Sie auf "Youtube Video" clicken kommen sie zum Video.
 [Youtube Video](https://youtu.be/EWg9SQYglAg)
 
-## Verifikation + Reflektion 
-
-**Reflektion**:
-Ich weiss leider nicht wie man bei einer Funktion den User abfragt, in Winforms. Ich weiss nur, dass man bei Konsolenenapplikationen Console:ReadLine() in die Klammer schreiben muss, damit es geht. Ich hätte einen Freund oder ich hätte auf Englsich suchen sollen, damit mehr ANtworten kommen. Wir hatten auch sehr viel Mühe mit der Komunikation, da es ein Gruppenmitglied gab, dass überhaupt nicht geredet hat und andere haben nur wenig gerdet. Unsere Ziele, die wir vorhatten zu machen haben sich als nicht möglich herausgestellt, dadurch haben wir einfachere und bessere Features eingebaut. Wir hätten uns besser überlegen sollen, was wir machen wollen und nicht direkt ein Spiel planen, dass mit hochwertigen Spielen mithalten kann. Aber al
+## Verifikation + Reflexion 
+#### Hinweis: Die VBV ist in der Reflexion drin.
+**Reflekxion**:
+Ich weiss leider nicht wie man bei einer Funktion den User abfragt, in Winforms. Ich weiss nur, dass man bei Konsolenenapplikationen Console:ReadLine() in die Klammer schreiben muss, damit es geht. Ich hätte einen Freund oder ich hätte auf Englsich suchen sollen, damit mehr ANtworten kommen. Wir hatten auch sehr viel Mühe mit der Komunikation, da es ein Gruppenmitglied gab, dass überhaupt nicht geredet hat und andere haben nur wenig gerdet. Unsere Ziele, die wir vorhatten zu machen haben sich als nicht möglich herausgestellt, dadurch haben wir einfachere und bessere Features eingebaut. Wir hätten uns besser überlegen sollen, was wir machen wollen und nicht direkt ein Spiel planen, dass mit hochwertigen Spielen mithalten kann. Das Arbeiten mit WinForms hat mir sehr viel spass gemacht, da es etwas neuse war und man besser mit dem Programm interagieren konnte.
 
 **Verifikation**:
 Ziel 1: Ich habe das Portfolio einem Laien und einem Freund gezeigt, beide wissen wie man eine Funktion initialisiert.
